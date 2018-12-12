@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidPuzzleGame-a8d23a45fb96f610c5a6da67a2f3afd489f57849.iml" filepath="$PROJECT_DIR$/AndroidPuzzleGame-a8d23a45fb96f610c5a6da67a2f3afd489f57849.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
